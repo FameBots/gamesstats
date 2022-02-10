@@ -5,7 +5,7 @@ Nice and friendly Bot to track your lovly game stats!
 
 
 ## SelfHost
-> We dont give Support for a selfhosted version please use the public one. [Invite Me](https://discord.com/api/oauth2/authorize?client_id=941443521209073745&permissions=274878294080&scope=applications.commands%20bot)
+> WOur repository contains code that isn't intended to be hosted. These files are here to help you understand how the bot works, and not how to install it on your own server. We're sorry, but we can't help you install the bot. Please use the public bot! [Invite Me](https://discord.com/api/oauth2/authorize?client_id=941443521209073745&permissions=274878294080&scope=applications.commands%20bot)
 
 ## Contribution
 > Feel free to fork this and do a pull request
