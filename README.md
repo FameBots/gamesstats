@@ -8,7 +8,7 @@ Nice and friendly Bot to track your lovly game stats!
 > We dont give Support for a selfhosted version please use the public one. [Invite Me](https://discord.com/api/oauth2/authorize?client_id=941443521209073745&permissions=274878294080&scope=applications.commands%20bot)
 
 ## Contribution
-> Feel free to fork this and add make a pull request
+> Feel free to fork this and do a pull request
 
 ## Tools Used
 - Discord.js - [Website](https://discord.js.org/#/) | [Github](https://github.com/discordjs/discord.js)
